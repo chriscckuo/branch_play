@@ -7,3 +7,4 @@ c1
 master-m1
 b1m1
 b1m2
+conflict1
